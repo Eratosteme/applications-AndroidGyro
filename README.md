@@ -1,3 +1,24 @@
+## Installation de l'application AndroidGyro
+
+### Prérequis
+
+* Un ordinateur avec Git installé. Vous pouvez télécharger Git gratuitement sur [https://git-scm.com/downloads](https://git-scm.com/downloads).
+* Un appareil Android avec les options de développement activées. Pour activer les options de développement, rendez-vous dans les paramètres de votre appareil, puis recherchez "À propos du téléphone" ou "Informations sur le logiciel". Appuyez plusieurs fois sur le numéro de build jusqu'à ce que le message "Vous êtes maintenant développeur" s'affiche.
+* Un câble USB pour connecter votre appareil Android à votre ordinateur.
+
+### Clonage du dépôt
+
+1. Ouvrez une fenêtre de terminal sur votre ordinateur.
+2. Exécutez la commande suivante pour cloner le dépôt applications-AndroidGyro :
+
+```bash
+git clone [https://github.com/Eratosteme/applications-AndroidGyro.git](https://github.com/Eratosteme/applications-AndroidGyro.git)
+```
+
+
+
+
+
 **Installation de l'application AndroidGyro**
 Ce document explique comment cloner le dépôt Git du projet applications-AndroidGyro et installer l'application sur votre appareil Android.
 
